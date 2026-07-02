@@ -62,7 +62,7 @@ Features include:
 - Monthly Revenue Trend
 - Sales Performance Overview
 
-![Executive Dashboard](screenshots/exec-dashboard.png)
+![Executive Dashboard](screenshots/Exec-Dashboard.png)
 
 ---
 
@@ -77,7 +77,7 @@ Features include:
 - Geographic Distribution
 - Regional Performance Comparison
 
-![Map](screenshots/map.png)
+![Map](screenshots/Map.png)
 
 ---
 
@@ -93,7 +93,7 @@ Features include:
 - Category Performance
 - Product Rankings
 
-![Product Detail](screenshots/product-detail.png)
+![Product Detail](screenshots/Product-Detail.png)
 
 ---
 
@@ -108,7 +108,7 @@ Features include:
 - Purchase Trends
 - High-Value Customers
 
-![Customer Detail](screenshots/customer-detail.png)
+![Customer Detail](screenshots/Customer-Detail.png)
 
 ---
 
